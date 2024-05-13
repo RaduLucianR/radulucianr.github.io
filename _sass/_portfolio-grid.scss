@@ -1,0 +1,17 @@
+/* ==========================================================================
+   PORTOFOLIO GRID
+   ========================================================================== */
+
+.portfolio-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    gap: 20px; // Adjust gap as needed
+  }
+  
+  .portfolio-item {
+    background: #fff; // Optional: Add background color
+    padding: 15px; // Optional: Add padding
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); // Optional: Add box shadow
+    border-radius: 8px; // Optional: Add border radius
+  }
+  
