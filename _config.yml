@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Radu Lucian Radulescu"
+title                    : "Radu-Lucian Rădulescu"
 title_separator          : "-"
-name                     : &name "Radu Lucian Radulescu"
+name                     : &name "Radu-Lucian Rădulescu"
 description              : &description "Radu's thing"
 url                      : https://rlradulescu.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -22,9 +22,9 @@ repository               : "RaduLucianR/radulucianr.github.io"
 author:
   # Biographic information
   avatar           : "me.jpeg"
-  name             : "Radu"
+  name             : "Radu-Lucian Rădulescu"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Eppur si muove."
   location         : "Stockholm, Sweden"
   employer         : "Kungliga tekniska hogskolan"
   uri              : # URL
