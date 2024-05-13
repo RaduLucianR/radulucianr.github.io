@@ -20,7 +20,8 @@ layout: default
       <h1 class="page__title">{{ page.title }}</h1>
     {% endunless %}
 
-    <div class="portfolio-grid">
+    <!-- {{ content }} -->
+    <div class="{% if page.is_portfolio %}portfolio-grid{% endif %}">
       {{ content }}
     </div>
   </div>
