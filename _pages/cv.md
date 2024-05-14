@@ -11,37 +11,74 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* <div style="text-align: justify;">M.Sc. in Embedded Systems, Technische Universiteit Eindhoven (TU/e), 2025 (expected)</div>
+* B.Sc. in Computer Science and Engineering, Technische Universiteit Eindhoven (TU/e), 2022
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* **Embedded Software Engineer**, [*ASML*](https://www.asml.com/), July 2023 - December 2023
+  * <div style="text-align: justify;">Full-time internship</div>
+  * <div style="text-align: justify;">Designed a framework for hardware-in-the-loop end-to-end test automation with behavior-driven development</div>
+  * <div style="text-align: justify;">Implemented Python libraries with RobotFramework that used OPC UA and XML-RPC as communication protocols</div>
+  * <div style="text-align: justify;">Expanded the Matlab/Simulink plant model that simulates the temperature properties of the machine</div>
+  * <div style="text-align: justify;">Implemented state machines for simulating electronic components’ behavior in C++ with </div>
+  * <div style="text-align: justify;">Eliminated the need for end-to-end manual testing and integrated the framework in the CI/CD pipeline</div>
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* **Robotics Software Engineer**, [*Starnus Technology*](https://www.starnustech.com/), July 2023 - December 2023
+  * <div style="text-align: justify;">Full-time internship for Bachelor Thesis</div>
+  * <div style="text-align: justify;">Starnus Technology is a startup specializing in custom autonomous mobile robots for logistics applications</div>
+  * <div style="text-align: justify;">Developed infrastructure that allows users to send commands and create missions for robots via a web application</div>
+  * <div style="text-align: justify;">Designed the system’s architecture, containing a Vue web application, a Springboot server and ROS nodes</div>
+  * <div style="text-align: justify;">Developed ROS nodes with C++, a robot simulation in Gazebo, web sockets in Java on the Springboot server</div>
+  * <div style="text-align: justify;">Collaborated in a SCRUM team of 10 students, following Agile principles, using Git and integrating CI/CD</div>
+
+* **Operations Manager & Software Engineer**, [*Team Polar*](https://www.teampolar.org/), September 2021 - July 2023
+  * Team Polar is a student team that develops a solar powered autonomous vehicle that facilitates Antarctic research
+  * Oversaw the organization and direction of the Team’s ~25 members as Operations Manager in the Team’s Board
+  * Implemented a vehicle simulation with ROS, Gazebo, C++; installed mechanical parts; soldered wires
+  * Created a 2D animation in Adobe After Effects that presents the Team’s mission to a non-technical audience
+  * Oversaw the construction of the Team’s first prototype, a €40,000 remote-controlled rover weighing 350kg
+  * Successfully tested the prototype in Norway in January 2023 which can be seen [here](https://www.teampolar.org/the-rover-1).
+
+* **Teaching Assistant**, *Technische Universiteit Eindhoven*, September 2020 - July 2023
+  * Part-time job
+  * Duties include: 
+    * Teach small-sized (8 students) groups
+    * Lead medium-sized (30-40 students) Q&A sessions
+    * Grade mathematical proofs, pseudo-code algorithms
+    * Grade programming assignments (Java, ARM Assembly, Haskell)
+
+Research experience
+======
+* **Student researcher**, *Division of Electronics and Embedded Systems of Kungliga tekniska Hogskolan (KTH)*, February 2024 - June 2024
+  * Erasmus+ full-time internship
+  * Investigating latency improvements for ROS2 systems via task-to-executor allocation schemes
+  * Created a framework for deploying run-time generated ROS2 executor architectures for fast iteration experiments
+  
+* **Student researcher**, *Security Group (SEC) of TU/e*, November 2021 - April 2022
+  * Investigated cybercriminals’ preference of underground markets by inspecting their activities on 23 illegal markets
+  * Created web scrapers in Python and compiled a database with data about 480 cybercriminals
+  * Determined the common features of the illegal markets that are visited by notorious cybercriminals
+  * Co-authored a paper presenting the results, published at WEIS ’23, accessible [here](https://doi.org/10.48550/arXiv.2306.05898)
+  
+* **Student researcher**, *Smart Mobility track of the Honors Academy of TU/e*, September 2020 - May 2021
+  * Investigated estimating optical flow in an unsupervised way
+  * Implemented neural networks with Pytorch for image classification (ResNet), semantic segmentation (DeepLab)
+  * Designed an optical flow network that calculates the loss from the output frame and a reconstructed second frame
+  * Implemented the reconstructor by using the generator of Pix2Pix, an image-to-image translation network
+  * Analyzed the approach with confusion matrices, loss graphs, wrote a comprehensive report about the findings
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
+* **Programming Languages**
+  * C, C++, Java, Python, C#, Bash, MATLAB, Haskell, Tcl, Typescript, Dafny, HTML/CSS/Javascript
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* **Tools and frameworks**
+  * Git, Jira, ROS1, ROS2, Gazebo, Cadence, OpenGL, Pytorch, OpenCV, Springboot, Boost
+  
+* **Languages**
+  * English - Full Proficiency (C2)
+  * Dutch - Limited Working Proficiency (B1)
+  * Spanish - Limited Working Proficiency (B1)
+  * Romanian - Native (C2)
