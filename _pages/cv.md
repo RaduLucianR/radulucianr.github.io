@@ -1,5 +1,4 @@
 ---
-layout: archive
 title: "CV"
 permalink: /cv/
 author_profile: true
@@ -11,27 +10,27 @@ redirect_from:
 
 Education
 ======
-* <div style="text-align: justify;">M.Sc. in Embedded Systems, Technische Universiteit Eindhoven (TU/e), 2025 (expected)</div>
+* M.Sc. in Embedded Systems, Technische Universiteit Eindhoven (TU/e), 2025 (expected)
 * B.Sc. in Computer Science and Engineering, Technische Universiteit Eindhoven (TU/e), 2022
 
 Work experience
 ======
 
-* **Embedded Software Engineer**, [*ASML*](https://www.asml.com/), July 2023 - December 2023
-  * <div style="text-align: justify;">Full-time internship</div>
-  * <div style="text-align: justify;">Designed a framework for hardware-in-the-loop end-to-end test automation with behavior-driven development</div>
-  * <div style="text-align: justify;">Implemented Python libraries with RobotFramework that used OPC UA and XML-RPC as communication protocols</div>
-  * <div style="text-align: justify;">Expanded the Matlab/Simulink plant model that simulates the temperature properties of the machine</div>
-  * <div style="text-align: justify;">Implemented state machines for simulating electronic components’ behavior in C++ with </div>
-  * <div style="text-align: justify;">Eliminated the need for end-to-end manual testing and integrated the framework in the CI/CD pipeline</div>
+**Embedded Software Engineer**, [*ASML*](https://www.asml.com/), July 2023 - December 2023
+  * Full-time internship
+  * Designed a framework for hardware-in-the-loop end-to-end test automation with behavior-driven development
+  * Implemented Python libraries with RobotFramework that used OPC UA and XML-RPC as communication protocols
+  * Expanded the Matlab/Simulink plant model that simulates the temperature properties of the machine
+  * Implemented state machines for simulating electronic components’ behavior in C++ with Boost
+  * Eliminated the need for end-to-end manual testing and integrated the framework in the CI/CD pipeline
 
 * **Robotics Software Engineer**, [*Starnus Technology*](https://www.starnustech.com/), July 2023 - December 2023
-  * <div style="text-align: justify;">Full-time internship for Bachelor Thesis</div>
-  * <div style="text-align: justify;">Starnus Technology is a startup specializing in custom autonomous mobile robots for logistics applications</div>
-  * <div style="text-align: justify;">Developed infrastructure that allows users to send commands and create missions for robots via a web application</div>
-  * <div style="text-align: justify;">Designed the system’s architecture, containing a Vue web application, a Springboot server and ROS nodes</div>
-  * <div style="text-align: justify;">Developed ROS nodes with C++, a robot simulation in Gazebo, web sockets in Java on the Springboot server</div>
-  * <div style="text-align: justify;">Collaborated in a SCRUM team of 10 students, following Agile principles, using Git and integrating CI/CD</div>
+  * Full-time internship for Bachelor Thesis
+  * Starnus Technology is a startup specializing in custom autonomous mobile robots for logistics applications
+  * Developed infrastructure that allows users to send commands and create missions for robots via a web application
+  * Designed the system’s architecture, containing a Vue web application, a Springboot server and ROS nodes
+  * Developed ROS nodes with C++, a robot simulation in Gazebo, web sockets in Java on the Springboot server
+  * Collaborated in a SCRUM team of 10 students, following Agile principles, using Git and integrating CI/CD
 
 * **Operations Manager & Software Engineer**, [*Team Polar*](https://www.teampolar.org/), September 2021 - July 2023
   * Team Polar is a student team that develops a solar powered autonomous vehicle that facilitates Antarctic research

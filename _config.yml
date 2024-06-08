@@ -25,8 +25,8 @@ author:
   name             : "Radu-Lucian Rădulescu"
   pronouns         : # example: "she/her"  
   bio              : "Eppur si muove."
-  location         : "Stockholm, Sweden"
-  employer         : "Kungliga tekniska hogskolan"
+  location         : "Eindhoven, the Netherlands"
+  employer         : "Accenture"
   uri              : # URL
   email            : "radlucradulescu@gmail.com" 
 
@@ -279,7 +279,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Europe/Amsterdam # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
