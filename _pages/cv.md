@@ -16,6 +16,11 @@ Education
 Work experience
 ======
 
+**Embedded Systems Engineer**, [*Accenture*](https://www.accenture.com/nl-en), June 2024 - September 2024
+  * Full-time internship
+  * Implemented BLE API with MQTT support in Go for an internal media player using a Raspberry Pi as MCU
+  * Implemented a Javascript app with Web Bluetooth to allow any device with a browser to connect to the media player
+
 **Embedded Software Engineer**, [*ASML*](https://www.asml.com/), July 2023 - December 2023
   * Full-time internship
   * Designed a framework for hardware-in-the-loop end-to-end test automation with behavior-driven development
@@ -24,7 +29,7 @@ Work experience
   * Implemented state machines for simulating electronic components’ behavior in C++ with Boost
   * Eliminated the need for end-to-end manual testing and integrated the framework in the CI/CD pipeline
 
-* **Robotics Software Engineer**, [*Starnus Technology*](https://www.starnustech.com/), July 2023 - December 2023
+**Robotics Software Engineer**, [*Starnus Technology*](https://www.starnustech.com/), July 2023 - December 2023
   * Full-time internship for Bachelor Thesis
   * Starnus Technology is a startup specializing in custom autonomous mobile robots for logistics applications
   * Developed infrastructure that allows users to send commands and create missions for robots via a web application
@@ -32,7 +37,7 @@ Work experience
   * Developed ROS nodes with C++, a robot simulation in Gazebo, web sockets in Java on the Springboot server
   * Collaborated in a SCRUM team of 10 students, following Agile principles, using Git and integrating CI/CD
 
-* **Operations Manager & Software Engineer**, [*Team Polar*](https://www.teampolar.org/), September 2021 - July 2023
+**Operations Manager & Engineer**, [*Team Polar*](https://www.teampolar.org/), September 2021 - July 2023
   * Team Polar is a student team that develops a solar powered autonomous vehicle that facilitates Antarctic research
   * Oversaw the organization and direction of the Team’s ~25 members as Operations Manager in the Team’s Board
   * Implemented a vehicle simulation with ROS, Gazebo, C++; installed mechanical parts; soldered wires
@@ -40,7 +45,7 @@ Work experience
   * Oversaw the construction of the Team’s first prototype, a €40,000 remote-controlled rover weighing 350kg
   * Successfully tested the prototype in Norway in January 2023 which can be seen [here](https://www.teampolar.org/the-rover-1).
 
-* **Teaching Assistant**, *Technische Universiteit Eindhoven*, September 2020 - July 2023
+**Teaching Assistant**, *Technische Universiteit Eindhoven*, September 2020 - July 2023
   * Part-time job
   * Duties include: 
     * Teach small-sized (8 students) groups

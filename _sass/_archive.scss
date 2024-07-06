@@ -35,7 +35,7 @@
   border-bottom: 1px solid $border-color;
 
   + .list__item .archive__item-title {
-    margin-top: 0.5em;
+    margin-top: 0;
   }
 }
 
@@ -52,7 +52,7 @@
 .page__content {
 
   .archive__item-title {
-    margin-top: 1em;
+    margin-top: 0%;
     border-bottom: none;
   }
 }
@@ -120,11 +120,12 @@
   }
 
   .archive__item-title {
-    margin-top: 0.5em;
+    margin-top: 0;
     font-size: $type-size-5;
   }
 
   .archive__item-excerpt {
+    margin-top: 0;
     display: none;
   }
 
@@ -145,6 +146,7 @@
     }
 
     .archive__item-excerpt {
+      margin-top: 0;
       display: block;
       font-size: $type-size-6;
     }
