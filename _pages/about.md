@@ -7,7 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-I am a swiss-knife programmer with curiosity about all fields of human development, particularly history and sociology.
+I am a swiss-knife programmer with curiosity about all fields of human development, particularly history and sociology. Find out more about me
+by checking out my [CV](https://rlradulescu.com/cv/), my [projects](https://rlradulescu.com/portfolio/), my [Github profile](https://github.com/RaduLucianR) or my [LinkedIn](https://www.linkedin.com/in/radu-lucian-radulescu/).
 
 I've completed my Bachelor studies in Computer Science and Engineering at Technische Universiteit Eindhoven. I did research on cybercriminal markets and unsupervised optical flow prediction. I was in the Board of Team Polar, a team of 25 students, whose aim is to build an autonomous solar-powered vehicle that collects data for climate researchers in the extreme conditions of the Antarctic continent. During the time I was in the board, we constructed the first prototype of such a vehicle, an RC-controlled 350kg rover, and tested it in Trondheim, Norway.
 
