@@ -1,9 +1,11 @@
 ---
-title: "Prisoner's Dilemma"
-excerpt: "Simulator with GUI in Java<br/><img src='/images/portfolio/thumbnails/prisonersDilemma.png'>"
+title: "Prisoner's Dilemma Sim"
+excerpt: "Simulator in Java with a Swing GUI app<br/><img src='/images/portfolio/thumbnails/prisonersDilemma.png'>"
 collection: portfolio
 date: 10-October-2019
 ---
+Project done in collaboration with Vlad Pintilie.
+
 Simulator with GUI for Prisoner's Dilemma written in Java with the Swing library. Blue patches are cooperating players
 and red are defecting players. Patches that just switched (in the current iteration) from defection to cooperation are
 light blue and patches that have switched from cooperation to defection are orange.

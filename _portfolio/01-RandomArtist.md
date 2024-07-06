@@ -1,9 +1,10 @@
 ---
-title: "Random artist"
-excerpt: "Random chess boards generator<br/><img src='/images/portfolio/thumbnails/randomartistThumbnail.png'>"
+title: "Random image generator"
+excerpt: "Java Swing GUI app<br/><img src='/images/portfolio/thumbnails/randomartistThumbnail.png'>"
 collection: portfolio
 date: 03-October-2019
 ---
+Project done in collaboration with Vlad Pintilie.
 
 Application in Java with the Swing library that generates images with random chess board positions. The GUI has
 a button to generate a new random image and a button to save the image as a png.

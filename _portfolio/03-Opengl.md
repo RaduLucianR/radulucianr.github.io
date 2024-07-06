@@ -4,6 +4,7 @@ excerpt: "Computer Graphics Basics Practice<br/><img src='/images/portfolio/thum
 collection: portfolio
 date: 28-October-2020
 ---
+Project done in collaboration with Teodor Lungu.
 
 Amusement park scene created from scratch with JOGL, the Java wrapper of OpenGL. The scene includes:
 * Custom made 3D models directly in OpenGL
