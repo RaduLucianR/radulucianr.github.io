@@ -44,7 +44,7 @@
   1.   Zigbee home automation system (C) October 2022
 - System validation
   1.   EU train spec system (mCRL2) September-October 2022
-- Internet of Thins
+- Internet of Things
   1.   LwM2M Lumminaire simulation (Java) December 2022 
 - Digital IC design
   1.   Schematic + layout + pex of 16-bit adder (Cadence Virtuoso) December 2022 - January 2023
