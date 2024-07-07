@@ -1,20 +1,20 @@
 #### Projects throughout the years
 
 - Programming
-  1. Random images generator (Java) October 2019
-  2. Automaton simulator (Java) October 2019
+  1. Random images generator (Java) October 2019 DONE
+  2. Automaton simulator (Java) October 2019 DONE
 - Artificial intelligence
   1. Perceptron (Java) March 2020
 - DBL WebTech
-  1. Eye-tracking visualizer tool (Python) May-June 2020
+  1. Eye-tracking visualizer tool (Python) May-June 2020 DONE
 - Computer graphics October 2020
-  1. 3D environment (Java)
+  1. 3D environment (Java) DONE
 - Engineering design 
-  1. Color detection for the blind (Arduino) September-October 2020
+  1. Color detection for the blind (Arduino) September-October 2020 DONE
 - Algebra & security 
-  1. Modulo maths library (Python) October 2020
+  1. Modulo maths library (Python) October 2020 DONE
 - Programming methods December 2020
-  1. Sudoku solver (Java)
+  1. Sudoku solver (Java) DONE
 - Operating Systems
   1. MD5 breaker (C) November 2020
   2.  Bounded buffer problem (C) December 2020

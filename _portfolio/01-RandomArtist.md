@@ -1,6 +1,6 @@
 ---
 title: "Random image generator"
-excerpt: "Java Swing GUI app<br/><img src='/images/portfolio/thumbnails/randomartistThumbnail.png'>"
+excerpt: "Java Swing GUI app<br/><img src='/images/portfolio/thumbnails/randomboard.png'>"
 collection: portfolio
 date: 03-October-2019
 ---
