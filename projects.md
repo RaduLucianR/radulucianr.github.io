@@ -1,20 +1,20 @@
 #### Projects throughout the years
 
-- Programming
+<!-- - Programming
   1. Random images generator (Java) October 2019 DONE
-  2. Automaton simulator (Java) October 2019 DONE
+  2. Automaton simulator (Java) October 2019 DONE -->
 - Artificial intelligence
   1. Perceptron (Java) March 2020
-- DBL WebTech
-  1. Eye-tracking visualizer tool (Python) May-June 2020 DONE
-- Computer graphics October 2020
-  1. 3D environment (Java) DONE
-- Engineering design 
-  1. Color detection for the blind (Arduino) September-October 2020 DONE
-- Algebra & security 
-  1. Modulo maths library (Python) October 2020 DONE
-- Programming methods December 2020
-  1. Sudoku solver (Java) DONE
+<!-- - DBL WebTech
+  1. Eye-tracking visualizer tool (Python) May-June 2020 DONE -->
+<!-- - Computer graphics October 2020
+  1. 3D environment (Java) DONE -->
+<!-- - Engineering design 
+  1. Color detection for the blind (Arduino) September-October 2020 DONE -->
+<!-- - Algebra & security 
+  1. Modulo maths library (Python) October 2020 DONE -->
+<!-- - Programming methods December 2020
+  1. Sudoku solver (Java) DONE -->
 - Operating Systems
   1. MD5 breaker (C) November 2020
   2.  Bounded buffer problem (C) December 2020
@@ -24,10 +24,10 @@
   1.   Dafny solvers (Dafny) March 2021
 - DBL Embedded Systems
   1.   Disk sorting robot (Python & C) Februrary-March 2021
-- Lab on offensive security
-  1.   Basic attacks tool (Python) June 2021
-- Process theory
-  1.   CAAL algorithms (CAAL) June 2021
+<!-- - Lab on offensive security
+  1.   Basic attacks tool (Python) June 2021 -->
+<!-- - Process theory
+  1.   CAAL algorithms (CAAL) June 2021 -->
 - Functional programming
   1.   Haskell parsers (Haskell) September-October 2021
 - Concept vs reality
