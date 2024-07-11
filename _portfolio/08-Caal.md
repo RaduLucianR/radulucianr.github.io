@@ -1,6 +1,6 @@
 ---
 title: "Retransmission Protocol"
-excerpt: "Communication protocol design<br/><img src='/images/portfolio/thumbnails/caal.png'>"
+excerpt: "<img src='/images/portfolio/thumbnails/caal.png'>"
 collection: portfolio
 date: 04-June-2021
 ---

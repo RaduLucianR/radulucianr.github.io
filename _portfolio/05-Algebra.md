@@ -1,6 +1,6 @@
 ---
-title: "Algebra library"
-excerpt: "Finite field polynomial operations<br/><img src='/images/portfolio/thumbnails/algebra.png'>"
+title: "Finite field algebra library"
+excerpt: "<img src='/images/portfolio/thumbnails/algebra.png'>"
 collection: portfolio
 date: 22-October-2020
 ---

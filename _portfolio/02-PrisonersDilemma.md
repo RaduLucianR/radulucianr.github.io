@@ -1,6 +1,6 @@
 ---
-title: "Prisoner's Dilemma Sim"
-excerpt: "Simulator in Java with a Swing GUI app<br/><img src='/images/portfolio/thumbnails/prisonersDilemma.png'>"
+title: "Prisoner Dilemma Simulator"
+excerpt: "<img src='/images/portfolio/thumbnails/prisonersDilemma.png'>"
 collection: portfolio
 date: 10-October-2019
 ---

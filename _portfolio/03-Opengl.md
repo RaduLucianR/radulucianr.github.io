@@ -1,6 +1,6 @@
 ---
 title: "OpenGL Sandbox"
-excerpt: "Computer Graphics Basics Practice<br/><img src='/images/portfolio/thumbnails/opengl.png'>"
+excerpt: "<img src='/images/portfolio/thumbnails/opengl.png'>"
 collection: portfolio
 date: 28-October-2020
 ---

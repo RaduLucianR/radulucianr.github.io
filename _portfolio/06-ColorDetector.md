@@ -1,6 +1,6 @@
 ---
-title: "Color detector"
-excerpt: "Device for the visually-impaired<br/><img src='/images/portfolio/thumbnails/remote.jpg'>"
+title: "Color detector for color-blind"
+excerpt: "<img src='/images/portfolio/thumbnails/remote.jpg'>"
 collection: portfolio
 date: 26-October-2020
 ---

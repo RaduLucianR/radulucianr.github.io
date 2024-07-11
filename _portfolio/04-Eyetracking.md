@@ -1,6 +1,6 @@
 ---
 title: "Eye-tracking visualizer"
-excerpt: "Flask website with Bokeh visualizations<br/><img src='/images/portfolio/thumbnails/eyetracking.png'>"
+excerpt: "<img src='/images/portfolio/thumbnails/eyetracking.png'>"
 collection: portfolio
 date: 03-July-2020
 ---

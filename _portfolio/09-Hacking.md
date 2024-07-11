@@ -1,6 +1,6 @@
 ---
 title: "Man-in-the-middle attacks"
-excerpt: "Python tool for network attacks<br/><img src='/images/portfolio/thumbnails/hacking.png'>"
+excerpt: "<img src='/images/portfolio/thumbnails/hacking.png'>"
 collection: portfolio
 date: 30-June-2021
 ---

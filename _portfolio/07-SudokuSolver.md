@@ -1,6 +1,6 @@
 ---
 title: "Sudoku solver"
-excerpt: "Java brute force solver<br/><img src='/images/portfolio/thumbnails/sudoku.png'>"
+excerpt: "<img src='/images/portfolio/thumbnails/sudoku.png'>"
 collection: portfolio
 date: 17-January-2021
 ---

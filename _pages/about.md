@@ -7,10 +7,10 @@ redirect_from:
   - /about.html
 ---
 
-I am a swiss-knife programmer with curiosity about all fields of human development, particularly history and sociology. Find out more about me
-by checking out my [CV](https://rlradulescu.com/cv/), my [projects](https://rlradulescu.com/portfolio/), my [Github profile](https://github.com/RaduLucianR) or my [LinkedIn](https://www.linkedin.com/in/radu-lucian-radulescu/).
+I am an embedded systems engineer, with a significant portion of my work now in robotics, specifically in [ROS](https://www.ros.org/). 
 
-I've completed my Bachelor studies in Computer Science and Engineering at Technische Universiteit Eindhoven. I did research on cybercriminal markets and unsupervised optical flow prediction. I was in the Board of Team Polar, a team of 25 students, whose aim is to build an autonomous solar-powered vehicle that collects data for climate researchers in the extreme conditions of the Antarctic continent. During the time I was in the board, we constructed the first prototype of such a vehicle, an RC-controlled 350kg rover, and tested it in Trondheim, Norway.
+The programming languages I know best are C, C++, Java and Python. My abilities are not limitied to these of course, I know many programming languages and frameworks, too many [to fit here](https://www.laphamsquarterly.org/miscellany/fermats-last-margin-note). For more information see my [CV](https://rlradulescu.com/cv) and my [LinkedIn](https://www.linkedin.com/in/radu-lucian-radulescu/), and check out my [portfolio](https://rlradulescu.com/portfolio/) and my [Github](https://github.com/RaduLucianR) to see what practical projects I've done.
 
-Right now, I am a Master of Embedded Systems student at Technische Universiteit Eindhoven and I am doing an internship at Accenture in the
-Industry X Industrial Design division (IXID). I am adding a BLE API with MQTT support for a software toolkit used by IXID for rapid prototyping.
+I interned at [Starnus Technology](https://www.starnustech.com/), [ASML](https://www.asml.com/en) and [Accenture](https://www.accenture.com/nl-en). I was in the Board of [Team Polar](https://www.teampolar.org/) when we constructed an RC-controlled 350kg-heavy prototype rover for Antarctic research. I conducted research about cybercriminals’ preference of underground markets and co-authored [this paper](https://doi.org/10.48550/arXiv.2306.05898). I am now in the final stages of my Master of Embedded Systems at the [Eindhoven University of Technology](https://www.tue.nl/en/).
+
+I enjoy bouldering, hiking, skiing, classical dances. I like watching films, playing chess and reading both fiction and non-fiction. Of course, I also code in my free time, mostly re-making tools from scratch, like this [shell](https://github.com/RaduLucianR/frozesh).
