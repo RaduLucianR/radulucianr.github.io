@@ -4,12 +4,14 @@ excerpt: "<img src='/images/portfolio/thumbnails/remote.jpg'>"
 collection: portfolio
 date: 26-October-2020
 ---
-Project done in a multi-disciplinary team along side Hriday Govind, Ellen Oudshoorn, Marco van Rooijen and Hugo Heller.
+**Project attribution**: Project done in a multi-disciplinary team along side Hriday Govind, Ellen Oudshoorn, Marco van Rooijen and Hugo Heller. <br>
+**Source**: Source code is not available. <br>
+**Short description**: Ergonomic color detector for visually impaired users that verbally announces object colors via a speaker.<br>
+**Technologies**: Arduino, standard electronics (color detector, voltage booster, speaker, button). <br>
+**What I did**: I designed and implemented the electronic circuit and I programmed the microcontroller.
 
 The project took us from ideation to implementation of a color detection device for the visually impaired. An Arduino microcontroller
 uses a color sensor to detect color and then a speaker let's the user know what color is detected.
-
-My contribution was the electronic circuit and the programming of the microcontroller.
 
 <figure style="flex-direction: column; align-items: center; justify-content: center; text-align: center;">
     <img src='/images/portfolio/colorsensor/color_sensor.jpeg' style="display: block; margin-left: auto; margin-right: auto; width:50%">

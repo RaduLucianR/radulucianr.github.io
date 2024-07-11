@@ -4,7 +4,11 @@ excerpt: "<img src='/images/portfolio/thumbnails/sudoku.png'>"
 collection: portfolio
 date: 17-January-2021
 ---
-Project done in collaboration with Vlad Pintilie and Teodor Lungu.
+**Project attribution**: Project done in collaboration with Vlad Pintilie and Teodor Lungu. <br>
+**Source**: Source code is in a private Github repository. <br>
+**Short description**: Brute force Sudoku solver. <br>
+**Technologies**: Java, [Swing](https://en.wikipedia.org/wiki/Swing_(Java)). <br>
+**What I did**: I implemented the Sudoku rules and the undo function. I contributed to the brute force algorithm.
 
 Brute force Sudoku solver written in Java. The app can load and solve Sudoku problems. If the current position is easy enough, it can also apply reasoning to find the next move. Moreover, the app has an undo function so one can see the solution backwards. Not all Sudoku puzzles are solvable by this app.
 

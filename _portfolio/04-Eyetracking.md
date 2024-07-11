@@ -4,9 +4,13 @@ excerpt: "<img src='/images/portfolio/thumbnails/eyetracking.png'>"
 collection: portfolio
 date: 03-July-2020
 ---
-Project done in a SCRUM team along with Mino Keuren, Teun Kortekaas, Valentijn van den Berg, Rick van der Heijden and Kelvin Toonen.
+**Project attribution**: Project done in a SCRUM team along with Mino Keuren, Teun Kortekaas, Valentijn van den Berg, Rick van der Heijden and Kelvin Toonen. <br>
+**Source**: The project's source code is unavailable. <br>
+**Short description**: Website that provides 4 visualizations for eye-tracking data.<br>
+**Technologies**: Python, [Flask](https://flask.palletsprojects.com/en/3.0.x/), [Bokeh](https://bokeh.org/). <br>
+**What I did**: I contributed to the heat map and I implemented the time plot. 
 
-Website written in Python with the Flask library that provides visualizations for eye-tracking data.
+The website was written in Python with the Flask library that provides visualizations for eye-tracking data.
 The visualizations were made with the Bokeh library.
 The used dataset was of metro maps, however the website can display any eye-tracking data for any other use case.
 
@@ -15,8 +19,6 @@ The website provides the following visualizations:
 * Gaze stripes
 * Eye cloud
 * Time plot
-
-My main contributions were with the heat map and time plot.
 
 <figure style="flex-direction: column; align-items: center; justify-content: center; text-align: center;">
     <img src='/images/portfolio/eyetracking/GUI.png' style="display: block; margin-left: auto; margin-right: auto; width:100%">

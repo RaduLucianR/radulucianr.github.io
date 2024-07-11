@@ -4,7 +4,11 @@ excerpt: "<img src='/images/portfolio/thumbnails/prisonersDilemma.png'>"
 collection: portfolio
 date: 10-October-2019
 ---
-Project done in collaboration with Vlad Pintilie.
+**Project attribution**: Project done in collaboration with Vlad Pintilie. <br>
+**Source**: The project's source code is not available. <br>
+**Short description**: Simulator for the [Prisoner's Dilemma](https://en.wikipedia.org/wiki/Prisoner%27s_dilemma) experiment.<br>
+**Technologies**: Java, [Swing](https://en.wikipedia.org/wiki/Swing_(Java)). <br>
+**What I did**: I created the GUI (window, sliders, buttons), the grid and the rules of the experiment. I contributed to the loop of the simulation.
 
 Simulator with GUI for Prisoner's Dilemma written in Java with the Swing library. Blue patches are cooperating players
 and red are defecting players. Patches that just switched (in the current iteration) from defection to cooperation are

@@ -4,9 +4,13 @@ excerpt: "<img src='/images/portfolio/thumbnails/opengl.png'>"
 collection: portfolio
 date: 28-October-2020
 ---
-Project done in collaboration with Teodor Lungu.
+**Project attribution**: Project done in collaboration with Teodor Lungu. <br>
+**Source**: The project's source code is available in a private Github repository. <br>
+**Short description**: 3D scene of a playground with a carousel and first-person camera.<br>
+**Technologies**: Java, [OpenGL](https://www.opengl.org/), [GLSL](https://en.wikipedia.org/wiki/OpenGL_Shading_Language), [JOGL](https://jogamp.org/jogl/www/). <br>
+**What I did**: I implemented some of the 3D objects, the first-person and third-person cameras, the Bezier curve algorithm ([De Casteljau](https://en.wikipedia.org/wiki/De_Casteljau%27s_algorithm)), the train and its animation.
 
-Amusement park scene created from scratch with JOGL, the Java wrapper of OpenGL. The scene includes:
+Amusement park scene created from scratch with JOGL, the Java binding of OpenGL. The scene includes:
 * Custom made 3D models directly in OpenGL
 * Texture mapped on a path
 * Phong shader for lightning

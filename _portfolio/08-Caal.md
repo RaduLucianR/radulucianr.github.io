@@ -4,9 +4,13 @@ excerpt: "<img src='/images/portfolio/thumbnails/caal.png'>"
 collection: portfolio
 date: 04-June-2021
 ---
-Project done in collaboration with Yip van Ginkel.
+**Project attribution**: Project done in collaboration with Yip van Ginkel. <br>
+**Source**: Source code is not available. <br>
+**Short description**: Modelling and formal verification of a communication protocol. <br>
+**Technologies**: [CAAL](https://caal.cs.aau.dk/) <br>
+**What I did**: Contributed to writing the model and I wrote the verification formulas.
 
-Design of a communication protocol called "Retransmission Protocol" using CCS (Calculus of Communicating Systems) and verification using HML (Hennesy-Milner Logic). Check the Context section at the bottom of the page for more information. Implementation done using the [CAAL](https://caal.cs.aau.dk/) tool.
+Modelling of a communication protocol called "Retransmission Protocol" using [CCS](https://en.wikipedia.org/wiki/Calculus_of_communicating_systems) (Calculus of Communicating Systems) and verification using [HML](https://en.wikipedia.org/wiki/Hennessy%E2%80%93Milner_logic) (Hennesy-Milner Logic). Check the Context section at the bottom of the page for more information. Implementation done using the [CAAL](https://caal.cs.aau.dk/) tool.
 
 <figure style="flex-direction: column; align-items: center; justify-content: center; text-align: center;">
     <img src='/images/portfolio/caal/caal_ccs.png' style="display: block; margin-left: auto; margin-right: auto; width:100%">

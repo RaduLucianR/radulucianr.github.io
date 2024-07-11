@@ -4,12 +4,10 @@ excerpt: "<img src='/images/portfolio/thumbnails/kettlebell.jpg'>"
 collection: portfolio
 date: 28-January-2022
 ---
-Project done in collaboration with Jop Geraets and Koen Giesen. The project's source code is available [here](https://github.com/RaduLucianR/5USUA0_Luditech/tree/complete).
-
-**Short description**: smart kettlebell with supporting Android app that gamifies exercising and points out exercising mistakes.
-
-**Technologies**: Java, Android, Arduino, [Firebase](https://firebase.google.com/), [MediaPipe](https://github.com/google-ai-edge/mediapipe).
-
+**Project attribution**: Project done in collaboration with Jop Geraets and Koen Giesen. <br>
+**Source**: The project's source code is available [here](https://github.com/RaduLucianR/5USUA0_Luditech/tree/complete). <br>
+**Short description**: Smart kettlebell with supporting Android app that gamifies exercising and points out exercising mistakes.<br>
+**Technologies**: Java, Android, Arduino, [Firebase](https://firebase.google.com/), [MediaPipe](https://github.com/google-ai-edge/mediapipe).<br>
 **What I did**: the Android app with all its features.
 
 We went from ideation to prototyping and then to marketing of a smart kettlebell accompanied by an Android app. We called the project Luditech. Luditech would be a company of home fitness equipment whose aim is to create a smart kettlebell that gamifies fitness as their first product. With
