@@ -30,8 +30,8 @@
   1.   CAAL algorithms (CAAL) June 2021 -->
 - Functional programming
   1.   Haskell parsers (Haskell) September-October 2021
-- Concept vs reality
-  1.   Pose detection Android app December-January 2021
+<!-- - Concept vs reality
+  1.   Pose detection Android app December-January 2021 -->
 - Data mining and machine learning (Java)
   1.   MLP from scratch (December 2021)
 - Computer Science Research Project
