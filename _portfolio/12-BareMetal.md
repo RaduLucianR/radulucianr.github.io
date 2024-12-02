@@ -10,7 +10,7 @@ date: 29-June-2023
 **Technologies**: C <br>
 **What I did**: I designed and implemented parts of the custom FIFO, the data-parallel version, and parts of the hybrid version.
 
-The code was written for the [CompSoC platform](http://compsoc.eu/) developed at TU Eindhoven. The CompSoC platform is highly configurable, and can be set to have multiple RISC-V processor tiles, each managing a number of partitions. For this project we had 3 processor tiles, each with 3 partitions that could perform computations in parallel.
+The code was written for a [CompSoC platform](http://compsoc.eu/) developed at TU Eindhoven. The CompSoC platform is highly configurable, and can be set to have multiple RISC-V processor tiles, each managing a number of partitions. For this project we had 3 processor tiles, each with 3 partitions that could perform computations in parallel.
 
 The Sobel algorithm is a classical computer vision algorithm that is used to detect edges of objects in images. It consists of 4 phases:
 1. Greyscale - transform the image to black & white
