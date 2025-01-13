@@ -7,10 +7,10 @@ date: 03-July-2020
 **Project attribution**: Project done in a SCRUM team along with Mino Keuren, Teun Kortekaas, Valentijn van den Berg, Rick van der Heijden and Kelvin Toonen. <br>
 **Source**: The project's source code is unavailable. <br>
 **Short description**: Website that provides 4 visualizations for eye-tracking data.<br>
-**Technologies**: Python, [Flask](https://flask.palletsprojects.com/en/3.0.x/), [Bokeh](https://bokeh.org/). <br>
-**What I did**: I contributed to the heat map and I implemented the time plot. 
+**Technologies**: Python, [Django](https://www.djangoproject.com/), [Bokeh](https://bokeh.org/). <br>
+**What I did**: I contributed to the heat map and I implemented the time plot, and integrated it in the Django infrastructure. 
 
-The website was written in Python with the Flask library that provides visualizations for eye-tracking data.
+The website was written in Python with the Django library and it that provides visualizations for eye-tracking data.
 The visualizations were made with the Bokeh library.
 The used dataset was of metro maps, however the website can display any eye-tracking data for any other use case.
 
