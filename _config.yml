@@ -24,9 +24,9 @@ author:
   avatar           : "me.jpeg"
   name             : "Radu-Lucian Rădulescu"
   pronouns         : # example: "she/her"  
-  bio              : "Eppur si muove."
-  location         : "Eindhoven, the Netherlands"
-  employer         : "Student @ TU Eindhoven"
+  bio              : "Embedded Systems Engineer"
+  location         : "Amsterdam, the Netherlands"
+  employer         : "Software Engineer @ Blocktech"
   uri              : # URL
   email            : "radlucradulescu@gmail.com" 
 
